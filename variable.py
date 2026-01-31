@@ -16,7 +16,7 @@ print(a,b,c)
 
 '_count' # valid:start with an underscore
 
-'class_name' # invalid :class is reversed keword in python 
+'class_name' # valid :class is reversed keword in python 
 
 'studentName' # valid:start with a letters allowed
 
