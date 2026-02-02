@@ -21,9 +21,9 @@ print(a,b,c)
 'studentName' # valid:start with a letters allowed
 
 scor=50
-printscore=80
+Score=80
 print(score)
-print(printscore)
+print(Score)
 
 
 
